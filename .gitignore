@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+*.prefs
+.classpath
+.project
+target/classes/application.properties
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.ibm/spring-boot-jpa-h2/pom.properties
+target/classes/META-INF/maven/com.ibm/spring-boot-jpa-h2/pom.xml
